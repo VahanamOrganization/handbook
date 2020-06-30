@@ -1,7 +1,7 @@
 ---
 id: Overview
-title: test
-sidebar_label: Vahanam test
+title: Overview
+sidebar_label: Overview
 ---
 
 Greetings Guilder!
