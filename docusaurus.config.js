@@ -1,14 +1,14 @@
 module.exports = {
-    title: "RaidGuild Handbook",
-    tagline: "Your guide to Raiding with the RaidGuild",
-    url: "https://handbook.raidguild.org",
+    title: "Vahanam Handbook",
+    tagline: "Your guide to Vahanam",
+    url: "https://handbook.vahanam.org",
     baseUrl: "/",
     favicon: "img/rg-icon.png",
-    organizationName: "raid-guild", // Usually your GitHub org/user name.
-    projectName: "Handbook", // Usually your repo name.
+    organizationName: "VahanamOrganization", // Usually your GitHub org/user name.
+    projectName: "VahanamOrganization", // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: "RaidGuild",
+            title: "Vahanam",
             logo: {
                 alt: "RaidGuild Logo",
                 src: "img/rg-icon.png",
@@ -21,7 +21,7 @@ module.exports = {
                 //   position: "left"
                 // },
                 {
-                    href: "https://raidguild.org",
+                    href: "https://vahanam.org",
                     label: "Dot Org",
                     position: "right",
                 },
@@ -53,7 +53,7 @@ module.exports = {
             //     ]
             //   }
             // ],
-            copyright: `Copyright © ${new Date().getFullYear()} RaidGuild, DAO`,
+            copyright: `Copyright © ${new Date().getFullYear()} Vahanam, DAO`,
         },
     },
     presets: [
