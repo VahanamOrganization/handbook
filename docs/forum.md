@@ -4,7 +4,7 @@ title: Forum
 sidebar_label: Forum
 ---
 
-Raid Guild has a [dedicated Discourse](https://forum.raidguild.org/) for all forum-style posts.
+Vahanam has a [dedicated Discourse](https://forum.raidguild.org/) for all forum-style posts.
 
 Please feel free to add a new topic if it has not been added and use this as a place to instigate open discussions regarding Site Improvements, Operations, contentious issues or whatever you see first.
 
